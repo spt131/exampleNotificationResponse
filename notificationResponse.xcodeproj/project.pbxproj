@@ -12,6 +12,7 @@
 		B28C00611D6D113D00B58F7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B28C005F1D6D113D00B58F7E /* Main.storyboard */; };
 		B28C00631D6D113D00B58F7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B28C00621D6D113D00B58F7E /* Assets.xcassets */; };
 		B28C00661D6D113D00B58F7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B28C00641D6D113D00B58F7E /* LaunchScreen.storyboard */; };
+		B28C006E1D6D115B00B58F7E /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B28C006D1D6D115B00B58F7E /* OtherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B28C00621D6D113D00B58F7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B28C00651D6D113D00B58F7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B28C00671D6D113D00B58F7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B28C006D1D6D115B00B58F7E /* OtherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B28C005B1D6D113D00B58F7E /* AppDelegate.swift */,
 				B28C005D1D6D113D00B58F7E /* ViewController.swift */,
+				B28C006D1D6D115B00B58F7E /* OtherViewController.swift */,
 				B28C005F1D6D113D00B58F7E /* Main.storyboard */,
 				B28C00621D6D113D00B58F7E /* Assets.xcassets */,
 				B28C00641D6D113D00B58F7E /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B28C005E1D6D113D00B58F7E /* ViewController.swift in Sources */,
+				B28C006E1D6D115B00B58F7E /* OtherViewController.swift in Sources */,
 				B28C005C1D6D113D00B58F7E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
